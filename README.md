@@ -1,4 +1,4 @@
-# Program_Evaluation
+# Program Evaluation
 
 This repository contains the homework to [Program Evaluation](https://harris.uchicago.edu/academics/programs-degrees/courses/program-evaluation).
 
