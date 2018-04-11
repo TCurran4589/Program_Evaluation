@@ -1,6 +1,6 @@
 # Program Evaluation
 
-This repository contains the homework to [Program Evaluation](https://harris.uchicago.edu/academics/programs-degrees/courses/program-evaluation) Winter 2018..
+This repository contains the homework to [Program Evaluation](https://harris.uchicago.edu/academics/programs-degrees/courses/program-evaluation) Winter 2018.
 
 This is a required class as a part of my [MSCAPP](https://capp.uchicago.edu/) degree at the University of Chicago.
 
